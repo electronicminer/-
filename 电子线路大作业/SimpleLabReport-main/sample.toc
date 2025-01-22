@@ -1,0 +1,7 @@
+\contentsline {section}{\numberline {1}题目描述}{2}{section.1}%
+\contentsline {section}{\numberline {2}设计过程}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}直流静态工作点测量}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}负载为10kΩ时的电压和电流增益增益测量}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}输入电阻测量}{5}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}输出电阻测量}{6}{subsection.2.4}%
+\contentsline {section}{\numberline {3}心得体会}{8}{section.3}%
